@@ -1,0 +1,8 @@
+{
+  "name": "FortuneQuest 2026",
+  "description": "A futuristic global earning platform where users complete AI-powered simple tasks to win big prizes across multiple levels and languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
